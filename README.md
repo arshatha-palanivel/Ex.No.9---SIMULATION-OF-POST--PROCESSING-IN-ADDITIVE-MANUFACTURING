@@ -46,9 +46,14 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![](./0091.png)
 
-### Name:
-### Register Number:
+![](./0092.png)
+
+![](./0093.png)
+
+### Name: Arshatha P
+### Register Number: 212222230012
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
